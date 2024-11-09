@@ -113,12 +113,6 @@
     </build>
 
     <!-- Jenkins Deployment Configuration -->
-    <servers>
-        <server>
-            <id>tomcat-server</id>
-            <username>jenkins</username>
-            <password>password</password>
-        </server>
-    </servers>
+    
 
 </project>
